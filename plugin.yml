@@ -13,8 +13,8 @@
 name: HideAndSeek
 author:  Ad5001
 version: 1.0
-api: [3.0.0, 3.0.0-ALPHA3]
-main: Ad5001\HideAndSeek\Main
+api: [3.11.3]
+main: HideAndSeek
 load: POSTWORLD
 commands:
   hideandseek:
