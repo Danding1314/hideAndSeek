@@ -7,11 +7,9 @@
 #   |_|  |_| |_|  \__,_|  \___|   /_/    \_\ |_| |_|  \__,_|   |_____/   \___|  \___| |_|\_\
 #                                                                                           
 #                                                                                           
-# The original minigame, free, and better than ever !
-# @author Ad5001
-# @link ad5001.eu
+# The original minigame, free, and better than eve
 
-namespace Ad5001\HideAndSeek;
+namespace HideAndSeek;
 
 use pocketmine\Server;
 use pocketmine\Player;
