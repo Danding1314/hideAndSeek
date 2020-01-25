@@ -8,10 +8,9 @@
 #                                                                                           
 #                                                                                           
 # The original minigame, free, and better than ever !
-# @author Ad5001
-# @link ad5001.eu
 
-namespace Ad5001\HideAndSeek;
+
+namespace HideAndSeek;
 
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
